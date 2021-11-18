@@ -28,6 +28,8 @@ Soy un Estudiante en Programacion y tecnico en Computadoras 😎
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true" alt="javascript" width="450"/>
+Estadisticas 👨‍💻
+<hr>
 Trabajando en mejorar mis skills de Desarrollador y en contribuir al open source de manera proactiva, mientras me concentro en aprender dia tras dias Desarrollo mobile. Actualmente estoy trabajando en mi blog personal.
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
