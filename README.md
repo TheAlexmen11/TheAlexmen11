@@ -10,7 +10,7 @@ Trabajando muchos en mejorar la mis estadisticas y en contribuir al open source 
 javascript
 
 javascript
-
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 Tech Skills 🚀
 Estoy en mi Flujo de Programacion constantemente alrededor de 5 horas por dia aprendiendo por diversion y de manera seria nuevas tecnologias y contribuyendo en la creacion de nuevos repositorios y codigo en github actualmente estoy retomando el lenguaje JavaScript y profundizando en el mismo
 Skills Stack 🔥
