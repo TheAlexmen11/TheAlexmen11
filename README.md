@@ -1,42 +1,21 @@
 Hola soy Alex  👋
 
-<a href="https://www.linkedin.com/in/alex-tumiri-huanca-6462851b0/" target="_blank" >
-  <img align="center" 
-       alt="Linkedin" 
-       width="35px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-</a>
 
-
-<a href="mailto:alextumirihuanca@gmail.com" target="_blank" >
+<a href="mailto:alexdcancho@gmail.com" target="_blank" >
   <img align="center" 
        alt="Gmail" 
        width="35px" 
        src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
 </a>
 
-<a href="https://www.facebook.com/PragmaticCodersGroup" target="_blank" >
+<a href="https://www.facebook.com/alex.cancho.77" target="_blank" >
   <img align="center" 
        alt="Facebook" 
        width="35px" 
        src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
 </a>
 
-<a href="https://www.instagram.com/pragmatic_coder/" target="_blank" >
-  <img align="center" 
-       alt="Instagram" 
-       width="35px" 
-       src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
-</a>
-
-<a href="https://twitter.com/CoderPragmatic" target="_blank" >
-  <img align="center" 
-       alt="Twitter" 
-       width="35px" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCQ1D3FO4ICg6SVivOTwIe4w" target="_blank" >
+<a href="https://www.youtube.com/channel/UC9_XV5rbB7iGUj_bapiuGMw" target="_blank" >
   <img align="center" 
        alt="Youtube" 
        width="35px" 
