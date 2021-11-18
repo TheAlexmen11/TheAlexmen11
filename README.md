@@ -1,4 +1,4 @@
-Hola soy Alex Tumiri Huanca (Pragmatic Coder) 👋
+Hola soy Alex  👋
 Linkedin Gmail Facebook Instagram Twitter Youtube
 side_sticker
 
