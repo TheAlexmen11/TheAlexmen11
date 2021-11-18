@@ -1,12 +1,10 @@
 Hola soy Alex  👋
-![image](https://user-images.githubusercontent.com/83262939/142339906-28db9773-ef1a-458e-9e56-38d3bc7abe29.png)
 
 
 Soy un Programador de webs en el Dia, un programador y cientifico de datos por la tarde y hacker por la noche 😎
 javascript
 
-javascript
-
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 Estadisticas 👨‍💻
 Trabajando muchos en mejorar la mis estadisticas y en contribuir al open source de manera proactiva, mientras me concentro en aprender dia tras dias nuevas tecnologias y otros skills actualmente estoy contribuyendo mucho en mi repositorio de codigo Pragmatic_JavaScript cuyo proposito es apoyar en aprendizaje en esta tecnologia.
 javascript
