@@ -42,6 +42,7 @@ Hola soy Alex  👋
        width="35px" 
        src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
+<br>
 Soy un Estudiante en Programacion y tecnico en Computadoras 😎
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
