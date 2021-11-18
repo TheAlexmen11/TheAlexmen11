@@ -1,6 +1,6 @@
 Hola soy Alex  👋
-Linkedin Gmail Facebook Instagram Twitter Youtube
-side_sticker
+![image](https://user-images.githubusercontent.com/83262939/142339906-28db9773-ef1a-458e-9e56-38d3bc7abe29.png)
+
 
 Soy un Programador de webs en el Dia, un programador y cientifico de datos por la tarde y hacker por la noche 😎
 javascript
