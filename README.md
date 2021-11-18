@@ -1,4 +1,4 @@
-Hola soy Alex  👋
+<h1>Hola soy Alex  👋</h1>
 
 
 <a href="mailto:alexdcancho@gmail.com" target="_blank" >
